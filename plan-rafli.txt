@@ -4,3 +4,5 @@ PLAN RAFLI
 - Belajar JS
 - Belajar Tailwindcss
 - Belajar React
+- Belajar Backend
+- Belajar Frontend
