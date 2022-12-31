@@ -1,8 +1,8 @@
 PLAN RAFLI
-- Belajar HTML
-- Belajar CSS
 - Belajar JS
 - Belajar Tailwindcss
 - Belajar React
 - Belajar Backend
 - Belajar Frontend
+- Bekerja diperusahaan besar
+- Mendapat gaji tang tinggi
