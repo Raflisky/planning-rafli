@@ -6,3 +6,4 @@ NEW PLAN RAFLI
 - Membuat channel yt
   1. tentang coding
 - Belajar Public Speaking
+- Belajar React JS
