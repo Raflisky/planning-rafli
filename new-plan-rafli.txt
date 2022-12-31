@@ -7,4 +7,4 @@ NEW PLAN RAFLI
   1. tentang coding
 - Belajar Public Speaking
 - Belajar React JS
-- Belajar Boostrap
+- Belajar tailwindcss
