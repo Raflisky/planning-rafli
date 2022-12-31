@@ -1,0 +1,6 @@
+PLAN RAFLI
+- Belajar HTML
+- Belajar CSS
+- Belajar JS
+- Belajar Tailwindcss
+- Belajar React
